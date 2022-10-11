@@ -15,6 +15,7 @@ export default defineConfig({
       lang: "es-MX",
       display: "fullscreen",
       orientation: "portrait",
+      publicPath: './',
       icons: [
         {
           "src": "assets/android-launchericon-512-512.png", "sizes": "512x512"
