@@ -1,11 +1,11 @@
 {
     "name": "Super Pizza PWA",
     "short_name": "PizzaPWA",
-    "start_url": "/",
+    "start_url": "./",
     "display": "fullscreen",
     "background_color": "#ffffff",
     "lang": "es-MX",
-    "scope": "/",
+    "scope": "./",
     "theme_color": "#ffffff",
     "description": "Practica de pagina de pizzas usando React, vite en PWA",
     "orientation": "portrait",
